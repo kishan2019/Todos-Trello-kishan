@@ -1,0 +1,29 @@
+
+  input {
+    margin: 0;
+    border: none;
+    border-radius: 0;
+    width: 50%;
+    font-size: 16px;
+    height: 25px;
+  }
+#container{
+    border: 1px solid black;
+    text-align: center;
+    display: block;
+    box-shadow: 10px,20px;
+    background-color: rgb(106, 112, 112);
+ }
+
+ #child{
+     display: block;
+ }
+
+ body{
+     background-color:darkslategray;
+ }
+ div{
+     padding:10px;
+ }
+
+ 
